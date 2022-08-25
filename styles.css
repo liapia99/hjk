@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.teer {
+  height: 80px;
+  padding-top: 10px;
+}
+img.logo{
+  width: 40px;
+  margin-top: -10px;
+  margin-left: -20px;
+  margin-right:250px;
+
+}
+nav.nav{
+  margin-left:300px;
+  margin-right:-200px;
+  margin-top: -195px;
+  justify-content: space-evenly;
+
+}
